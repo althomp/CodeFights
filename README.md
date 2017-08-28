@@ -1,2 +1,2 @@
 # CodeFights
-CodeFights coding practice
+CodeFights coding practice in Swift3
